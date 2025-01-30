@@ -2,7 +2,8 @@
 Vlayer Testnet
 New Waitlist : VLayer Testnet
 
-🪂 Register: http://accounts.vlayer.xyz/waitlist
+🪂 Register: 
+http://accounts.vlayer.xyz/waitlist
 ➖ Submit Email
 ➖ Done
 
